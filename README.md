@@ -1,0 +1,1 @@
+# naca2412-bird-strike-ansys
